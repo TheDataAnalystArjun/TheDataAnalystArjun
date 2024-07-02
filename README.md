@@ -3,8 +3,7 @@
 - 👀 I’m interested in Data Analysis and unlocking insights from complex datasets.
 - 🌱 I’m currently learning advanced statistical modeling and machine learning techniques to elevate my analytical skills.
 - 💞️ I’m looking to collaborate on projects that involve data-driven decision-making and have a positive impact on business outcomes.
-- 📫 How to reach me: [YourEmail@example.com](mailto:rathodarjun878@gmail.com.com) | [LinkedIn](www.linkedin.com/in/arjun-rathod-5b5b97184) | [Twitter](https://twitter.com/yourtwitter/)
-
+- 📫 How to reach me: rathodarjun878@gmail.com.com| www.linkedin.com/in/arjun-rathod-5b5b97184)
 ---
 
 ## About Me
